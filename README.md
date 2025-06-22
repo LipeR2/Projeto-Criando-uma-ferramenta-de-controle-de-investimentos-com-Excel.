@@ -78,7 +78,7 @@ De acordo com o perfil que o usuário se identifica (conservador, moderado ou ag
 ## 📈🗂️🧑🏻‍💻 Atividades Relacionadas ao Excel:
 - Uso de uma tabela chave para função PROCV (procur um valor ou intervalo em colunas dentro de uma matriz);
 - Proteger Planilha para que o usuário só mexa nos campos definidos (certos, para os cálculos);
-- modelagem de Sugestão de Investimento = 30% do salário;
+- Modelagem de Sugestão de Investimento = 30% do salário;
 - Uso da função VF (valor futuro) para patrimônio acumulado;
 - Modelagem da variável Dividendo Mensal,  (patrimônio acumulado vezes o redimento de carteira);
 - Entre outros.
