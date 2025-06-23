@@ -29,10 +29,10 @@ Excel + I.A.
 | **Variáveis Globais** | Estruturar valores como variáves para fórmulas. |
 | **Nomeando Intervalos** | Nomear células do Excel como variáves para fórmulas. |
 | **Criando Uniformidade Visual** | Começar uma identidade visual para a ferramenta. |
-| **Tipos de Fundos** | Finalizar DataView da ferramenta, com gráficos e tabelas. |
+| **Tipos de Fundos** | Finalizar DataView da ferramenta e DataViz com gráficos e tabelas. |
 
 - Obs.: B.I. = Business Intelligence (Inteligência de Negócios);
-- Obs.: Desenvolver Dataview em um Dashbord, (melhoria futura e contínua).
+- Obs.: Aprimorar Dataview e DataViz no Dashbord, (melhoria futura e contínua).
 
 ## Framework da Ferramenta:
 
